@@ -1,6 +1,8 @@
 # Welcome to my profile!
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+[![card](https://github-readme-stats.vercel.app/api?DevMoonTv=iuricode&theme=default)](https://github.com/iuricode/)
+
 <p align="left"> 
   Hello, I'm DevLua. I'm a <strong>programmer</strong> and I live in Brazil.<br>
   I work as a programmer at Destiny Roleplay.
