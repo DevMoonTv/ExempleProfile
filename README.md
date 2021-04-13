@@ -20,5 +20,5 @@
 </p>
 
 <p align="left">
-  <strong>Discord:</strong> d$ DaLua#0940  
+  <strong>Discord:</strong> DaLua#0940  
 </p>
