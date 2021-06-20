@@ -4,8 +4,7 @@
 [![card](https://github-readme-stats.vercel.app/api?username=DevMoonTv&theme=default)](https://github.com/DevMoonTv/)
 
 <p align="left"> 
-  Hello, I'm DevLua. I'm a <strong>programmer</strong> and I live in Brazil.<br>
-  I work as a programmer at Destiny Roleplay.
+
 </p>
 
 <p align="left">
